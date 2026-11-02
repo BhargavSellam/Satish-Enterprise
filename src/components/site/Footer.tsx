@@ -9,7 +9,7 @@ export function Footer() {
     <footer className="mt-24 border-t bg-ivory">
       <div className="container-site grid gap-12 py-16 sm:grid-cols-2 lg:grid-cols-4">
         <div className="lg:col-span-2">
-          <img src={logo.url} alt="Satish Enterprise and Full House" width={1794} height={652} loading="lazy" className="h-16 w-auto" />
+          <img src={logo.url} alt="Satish Enterprise and Full House" width={1918} height={820} loading="lazy" className="h-16 w-auto" />
           <p className="mt-5 max-w-md text-sm leading-relaxed text-muted-foreground">
             Granites, tiles, quartz and sanitaryware for homes and commercial projects in Amalapuram, Andhra Pradesh.
           </p>

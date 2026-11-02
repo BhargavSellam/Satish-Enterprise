@@ -34,7 +34,7 @@ export function Header() {
     <header className="sticky top-0 z-40 border-b bg-background">
       <div className="container-site grid h-20 grid-cols-[minmax(0,1fr)_auto] items-center gap-4 xl:flex xl:justify-between">
         <Link to="/" className="flex min-w-0 items-center" aria-label={`${SITE.displayName} home`}>
-          <img src={logo.url} alt="Satish Enterprise and Full House" width={1794} height={652} className="h-12 w-auto sm:h-14" />
+          <img src={logo.url} alt="Satish Enterprise and Full House" width={1918} height={820} className="h-12 w-auto sm:h-14" />
         </Link>
 
         <nav className="hidden items-center gap-7 xl:flex" aria-label="Main">
